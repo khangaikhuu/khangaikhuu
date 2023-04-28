@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm
+Uvgunkhuu Khangaikhuu</h1>
+<h3 align="center">A passionate Fullstack developer from Ulaanbaatar Mongolia 🇲🇳</h3>
+
 - 📚 I am currently working at [Thrift Market LLC](https://m24.mn/)
 
 - 🌱 I am currently in the race **Software Design and Development**
