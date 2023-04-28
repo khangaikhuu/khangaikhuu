@@ -1,23 +1,10 @@
-<!-- RAINBOW LINE TOP -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-<!-- GIF HEADER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
-
-<!-- VISTAS DEL PERFIL -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andermendoza&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
-
-<!-- TROFEOS GITHUB -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andermendoza&theme=dracula&column=7" alt="andermendoza" /></a> </p>
-
-<!-- BREVE DESCRIPCION -->
-- 📚 I am currently studying at [Institute Certus](https://www.certus.edu.pe/)
+- 📚 I am currently working at [Thrift Market LLC](https://m24.mn/)
 
 - 🌱 I am currently in the race **Software Design and Development**
 
-- 🏙 Creator of the [Devs Community](https://github.com/Devs-Com) organization
+- 🏙 Creator of the [Devs Community](https://m24.mn) organization
 
-- 📫 How to reach me **davidmramos30@gmail.com**
+- 📫 How to reach me **khangaikhuu@gmail.com**
 
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>
