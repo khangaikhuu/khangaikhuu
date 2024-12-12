@@ -9,7 +9,7 @@ Uvgunkhuu Khangaikhuu</h1>
 - 🏙 Creator of the [M24.mn](https://m24.mn) organization
 - 🏙 Creator of the [icode.mn](https://icode.mn) organization
 
-- 📫 How to reach me **khangaikhuu@gmail.com**
+- 📫 How to reach me **khangaikhuu@hey.com**
 
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>
