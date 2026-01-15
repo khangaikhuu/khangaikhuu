@@ -6,8 +6,8 @@ Uvgunkhuu Khangaikhuu</h1>
 
 - 🌱 I am currently in the race **Software Design and Development**
 
-- 🏙 Creator of the [M24.mn](https://m24.mn) organization
 - 🏙 Creator of the [icode.mn](https://icode.mn) organization
+
 
 - 📫 How to reach me **khangaikhuu@hey.com**
 
